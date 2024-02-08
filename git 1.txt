@@ -1,2 +1,2 @@
 hi my name is nasva
-Im learning raectjs
+Im learning reactjs
