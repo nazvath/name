@@ -1,2 +1,3 @@
 hi my name is nasva
 Im learning reactjs
+its a 2 month course
